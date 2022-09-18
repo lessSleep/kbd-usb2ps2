@@ -32,9 +32,9 @@
 * HHKB Professional Type-S (PD-KB400WS) :x:
 * CHERRY G80-3494LWCEU-0 :heavy_check_mark:
 * 支持AKKO 3108DS
-* 京造 k2
-* Ikbc C87
-* LANGTU GK85
+* 京造 k2 :heavy_check_mark:
+* Ikbc C87 :heavy_check_mark:
+* LANGTU GK85 :heavy_check_mark:
 
 USB Host Shield V2.0 好像[不支持自带 Hub 口的键盘](https://github.com/felis/USB_Host_Shield_2.0/issues/518)，所以如果你的键盘自带 Hub 口，那插在这个系统上是不能正常使用的。
 
