@@ -477,7 +477,8 @@ void OnPs2Read(const uint8_t& b) {
 }
 
 void setup() {
-  Serial.begin(115200);
+  //Serial.begin(115200);
+  Serial.begin(9600); //zl 2022-9-18
 #if !defined(__MIPSEL__)
   while (!Serial)
     ;  // Wait for serial port to connect - used on Leonardo, Teensy and other
